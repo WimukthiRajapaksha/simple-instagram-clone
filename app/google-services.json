@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924119092091",
+    "firebase_url": "https://instagram-android-02.firebaseio.com",
+    "project_id": "instagram-android-02",
+    "storage_bucket": "instagram-android-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924119092091:android:44a69ecb42690340",
+        "android_client_info": {
+          "package_name": "com.example.instagramandroid02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924119092091-06le70dapol9k4s2u3tafjb6hj2dmi4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCopShRhelg_uvEyqMDrwfIh66HYPIkxlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924119092091-06le70dapol9k4s2u3tafjb6hj2dmi4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
